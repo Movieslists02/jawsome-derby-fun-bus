@@ -1,0 +1,185 @@
+﻿{
+ "pages/home/hero": {
+   "mediaType": "image",
+   "currentUrl": "https://img1.wsimg.com/isteam/getty/140235799",
+   "searchQuery": "Saratoga racetrack crowd energy horse racing grandstand",
+   "alternatives": [],
+   "userModified": false,
+   "createdAt": "2026-05-27T20:05:33.116Z",
+   "lastUpdated": "2026-05-27T20:05:33.116Z",
+   "gettyId": "140235799",
+   "requestedSize": {
+     "width": 1920,
+     "height": 1080,
+     "fit": "cover"
+   },
+   "orientations": "horizontal",
+   "compositions": "wide_shot",
+   "moods": "dramatic,bold",
+   "minimumSize": "x_large"
+ },
+ "pages/home/horses-racing": {
+   "mediaType": "image",
+   "currentUrl": "https://img1.wsimg.com/isteam/getty/1502716427",
+   "searchQuery": "thoroughbred horses racing track action close up",
+   "alternatives": [
+     "https://img1.wsimg.com/isteam/getty/2255393925",
+     "https://img1.wsimg.com/isteam/getty/957245258",
+     "https://img1.wsimg.com/isteam/getty/1637528717",
+     "https://img1.wsimg.com/isteam/getty/881121208"
+   ],
+   "userModified": false,
+   "createdAt": "2026-05-27T20:05:33.910Z",
+   "lastUpdated": "2026-05-27T20:05:33.910Z",
+   "gettyId": "1502716427",
+   "alternativeGettyIds": [
+     "2255393925",
+     "957245258",
+     "1637528717",
+     "881121208"
+   ],
+   "requestedSize": {
+     "width": 1200,
+     "height": 700,
+     "fit": "cover"
+   },
+   "orientations": "horizontal",
+   "moods": "dramatic,bold",
+   "minimumSize": "large"
+ },
+ "pages/home/vip-experience": {
+   "mediaType": "image",
+   "currentUrl": "https://img1.wsimg.com/isteam/getty/2174823089",
+   "searchQuery": "luxury VIP event experience crowd celebration premium",
+   "alternatives": [
+     "https://img1.wsimg.com/isteam/getty/2191575922",
+     "https://img1.wsimg.com/isteam/getty/2238295156",
+     "https://img1.wsimg.com/isteam/getty/1490811328",
+     "https://img1.wsimg.com/isteam/getty/858958704"
+   ],
+   "userModified": false,
+   "createdAt": "2026-05-27T20:05:35.307Z",
+   "lastUpdated": "2026-05-27T20:05:35.307Z",
+   "gettyId": "2174823089",
+   "alternativeGettyIds": [
+     "2191575922",
+     "2238295156",
+     "1490811328",
+     "858958704"
+   ],
+   "requestedSize": {
+     "width": 1200,
+     "height": 600,
+     "fit": "cover"
+   },
+   "orientations": "horizontal",
+   "moods": "warm,vivid",
+   "minimumSize": "large"
+ },
+ "pages/home/event-opening": {
+   "mediaType": "image",
+   "currentUrl": "https://img1.wsimg.com/isteam/getty/1089666616",
+   "searchQuery": "horse racing opening day crowd festive atmosphere",
+   "alternatives": [
+     "https://img1.wsimg.com/isteam/getty/2261060897",
+     "https://img1.wsimg.com/isteam/getty/1138506111",
+     "https://img1.wsimg.com/isteam/getty/1248145628"
+   ],
+   "userModified": false,
+   "createdAt": "2026-05-27T20:05:36.613Z",
+   "lastUpdated": "2026-05-27T20:05:36.613Z",
+   "gettyId": "1089666616",
+   "alternativeGettyIds": [
+     "2261060897",
+     "1138506111",
+     "1248145628"
+   ],
+   "requestedSize": {
+     "width": 800,
+     "height": 500,
+     "fit": "cover"
+   },
+   "orientations": "horizontal",
+   "moods": "vivid,warm"
+ },
+ "pages/home/event-travers": {
+   "mediaType": "image",
+   "currentUrl": "https://img1.wsimg.com/isteam/getty/1282313643",
+   "searchQuery": "horse racing stakes race finish line excitement",
+   "alternatives": [
+     "https://img1.wsimg.com/isteam/getty/183536286",
+     "https://img1.wsimg.com/isteam/getty/1384652855",
+     "https://img1.wsimg.com/isteam/getty/1217559438"
+   ],
+   "userModified": false,
+   "createdAt": "2026-05-27T20:05:38.123Z",
+   "lastUpdated": "2026-05-27T20:05:38.123Z",
+   "gettyId": "1282313643",
+   "alternativeGettyIds": [
+     "183536286",
+     "1384652855",
+     "1217559438"
+   ],
+   "requestedSize": {
+     "width": 800,
+     "height": 500,
+     "fit": "cover"
+   },
+   "orientations": "horizontal",
+   "moods": "dramatic,bold"
+ },
+ "pages/home/event-special": {
+   "mediaType": "image",
+   "currentUrl": "https://img1.wsimg.com/isteam/getty/1010980116",
+   "searchQuery": "horse racing special event day group friends fun",
+   "alternatives": [
+     "https://img1.wsimg.com/isteam/getty/2153106294",
+     "https://img1.wsimg.com/isteam/getty/2269635282",
+     "https://img1.wsimg.com/isteam/getty/161371034"
+   ],
+   "userModified": false,
+   "createdAt": "2026-05-27T20:05:39.142Z",
+   "lastUpdated": "2026-05-27T20:05:39.142Z",
+   "gettyId": "1010980116",
+   "alternativeGettyIds": [
+     "2153106294",
+     "2269635282",
+     "161371034"
+   ],
+   "requestedSize": {
+     "width": 800,
+     "height": 500,
+     "fit": "cover"
+   },
+   "orientations": "horizontal",
+   "moods": "vivid,warm"
+ },
+ "logo/horizontal": {
+   "mediaType": "logo",
+   "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-transparent-deac80032285afb30d480f6a7c2fec2e/logo-jawsome-racing-deac80.png",
+   "searchQuery": "JAWSOME RACING",
+   "alternatives": [],
+   "solidUrlMap": {
+     "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-transparent-deac80032285afb30d480f6a7c2fec2e/logo-jawsome-racing-deac80.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-solid-568b3cd4482ff25d2f1b7126bfadb733/logo-jawsome-racing-568b3c.png"
+   },
+   "reversedUrlMap": {
+     "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-transparent-deac80032285afb30d480f6a7c2fec2e/logo-jawsome-racing-deac80.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-reversed-5daf32bdde4917927ff03b027d0f3209/logo-jawsome-racing-5daf32.png"
+   },
+   "reversedSolidUrlMap": {
+     "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-transparent-deac80032285afb30d480f6a7c2fec2e/logo-jawsome-racing-deac80.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-reversed-solid-398fdad5b9f262ea5c65b62b6d580975/logo-jawsome-racing-398fda.png"
+   },
+   "mockupUrlMap": {
+     "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-transparent-deac80032285afb30d480f6a7c2fec2e/logo-jawsome-racing-deac80.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-mockup-960fe8c1310cfb32303d9584d5368606/logo-jawsome-racing-960fe8.png"
+   },
+   "landscapeMockupUrlMap": {},
+   "logoSourceMap": {
+     "https://isteam.wsimg.com/genai-assistant/logoagent/customer/eed4027d-534a-4fb1-bb9d-c7e7b123dac9/session/db2b6a36-34a5-4df2-8a9e-fb0dc9305965/horizontal-transparent-deac80032285afb30d480f6a7c2fec2e/logo-jawsome-racing-deac80.png": {
+       "sessionId": "db2b6a36-34a5-4df2-8a9e-fb0dc9305965",
+       "logoId": "deac8003"
+     }
+   },
+   "userModified": true,
+   "createdAt": "2026-05-27T20:06:58.000Z",
+   "lastUpdated": "2026-05-27T20:08:52.310Z"
+ }
+}
