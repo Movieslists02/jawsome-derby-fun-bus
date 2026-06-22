@@ -1,0 +1,57 @@
+[build]
+  command = "npm run build"
+  publish = "dist/client"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/api/store/checkout"
+  to = "/.netlify/functions/store-checkout"
+  status = 200
+
+[[redirects]]
+  from = "/api/stripe/webhook"
+  to = "/.netlify/functions/stripe-webhook"
+  status = 200
+
+[[redirects]]
+  from = "/api/printful/webhook"
+  to = "/.netlify/functions/printful-webhook"
+  status = 200
+
+[[redirects]]
+  from = "/api/admin/orders"
+  to = "/.netlify/functions/admin-orders"
+  status = 200
+
+[[redirects]]
+  from = "/api/admin/events"
+  to = "/.netlify/functions/admin-events"
+  status = 200
+
+[[redirects]]
+  from = "/api/account/orders"
+  to = "/.netlify/functions/account-orders"
+  status = 200
+
+[[redirects]]
+  from = "/api/booking/checkout"
+  to = "/.netlify/functions/booking-checkout"
+  status = 200
+
+[[redirects]]
+  from = "/api/booking/verify"
+  to = "/.netlify/functions/booking-verify"
+  status = 200
+
+[[redirects]]
+  from = "/api/health"
+  to = "/.netlify/functions/health"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
