@@ -11,7 +11,7 @@ import {
   Heart,
 } from 'lucide-react';
 
-const registerLink = '#'; // Replace with Bucket List Events registration/payment link
+const registerLink = 'PASTE_BUCKET_LIST_EVENTS_LINK_HERE'; // Replace with Bucket List Events registration/payment link
 
 const includes = [
   'Three-night hotel stay: check in Thursday, check out Sunday',
