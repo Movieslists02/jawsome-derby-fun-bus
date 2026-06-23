@@ -232,21 +232,6 @@ export default function DerbyPage() {
         </div>
       </section>
 
-      <section className="py-20 border-b border-border">
-        <div className="container mx-auto px-4">
-          <div className="border border-primary/40 rounded-lg p-8 md:p-10">
-            <Heart className="text-primary mb-4" size={42} />
-            <h2 className="font-heading text-4xl uppercase text-foreground">
-              Tunnel to Towers Give Back
-            </h2>
-            <p className="mt-4 text-muted-foreground max-w-3xl">
-              Jawsome Racing will highlight that 15% is given back in support of Tunnel to Towers,
-              honoring the memory of the 9/11 victims and those who sacrificed.
-            </p>
-          </div>
-        </div>
-      </section>
-
       <section className="py-24 text-center">
         <div className="container mx-auto px-4">
           <h2 className="font-heading text-4xl md:text-6xl uppercase text-foreground">
