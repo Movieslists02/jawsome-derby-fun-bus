@@ -17,13 +17,15 @@ export async function POST(req: Request, res: Response) {
   const supabase = createClient(supabaseUrl, supabaseServiceKey);
 
   try {
-    const { session_id } = req.body;
+    let session: Stripe.Checkout.Session;
 
-    if (!session_id) {
-      return res.status(400).json({ error: "Missing session_id" });
-    }
-
-    const session = await stripe.checkout.sessions.retrieve(session_id);
+if (req.body?.session_id) {
+  session = await stripe.checkout.sessions.retrieve(req.body.session_id);
+} else if (req.body?.type === "checkout.session.completed") {
+  session = req.body.data.object as Stripe.Checkout.Session;
+} else {
+  return res.json({ success: true, message: "Event ignored" });
+}
 
     if (session.payment_status !== "paid") {
       return res.status(400).json({ error: "Payment not completed" });
